@@ -1,0 +1,16 @@
+/*responsive canvas css from https://codepen.io/desandro/pen/aqYXoa*/
+
+html { height: 100%; }
+
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  /*background:#001b47;*/
+  background:radial-gradient(circle,white 5%,#001b47 40%);
+}
